@@ -307,13 +307,50 @@ public class Library
       {
          reducedMap.put(eachCardHolder, cardHolderLoans.get(eachCardHolder));
       }
-      
+
       return reducedMap;
 
    }
 
    /**
-    * Question 2(ii)3 populateCardHolderLoans()
+    * Question 2(iv) addValue()
+    * Inserts a new value, as specified by the arguments,
+    * into the collection of values for the key also specified 
+    * by the arguments. 
+    * 
+    * It is assumed the particular key is
+    * present within the map.
+    * 
+    * @param aCardHolder particular key into which new value must 
+    * be added
+    * @param aPublication new value to be added into the collection
+    * of values currently held for the argument
+    * @return boolean return false if value cannot be added
+    *
+    */
+   public boolean addValue(String aCardHolder, String aPublication)
+   {
+
+      //String aCardHolder = OUDialog.request("Please enter the card-holder number");
+      //iterate through each key-value pair
+      for(String eachKey : cardHolderLoans.keySet())
+      {
+         //check to find out whether the current key matches the selected key
+         if(eachKey != null && eachKey.equals(aCardHolder))
+         {
+            //create copy of the values-set currently associated with this key
+            Set<String> publications = new TreeSet<>(cardHolderLoans.get(eachKey));
+            //add the new value to this set and put the key-value set back into the map
+            publications.add(aPublication);
+            cardHolderLoans.put(eachKey, publications);
+            return true;
+         }
+      }
+      return false;
+   }
+   
+   /**
+    * Question 2(ii)3 supplement to createReducedMap() method
     * A public instance method to populate the video library
     * map with some test data: a collection of card-holder 
     * reference numbers along with its associated loan items.
