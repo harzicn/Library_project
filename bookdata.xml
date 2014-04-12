@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<title>The Lord of the Rings</title>
+		<author>JRR Tolkien</author>
+	</Row>
+	<Row>
+		<title>Pride and Prejudice</title>
+		<author>Jane Austen</author>
+	</Row>
+	<Row>
+		<title>His Dark Materials</title>
+		<author>Philip Pullman</author>
+	</Row>
+	<Row>
+		<title>The Hitchhiker's Guide to the Galaxy</title>
+		<author>Douglas Adams</author>
+	</Row>
+	<Row>
+		<title>Harry Potter and the Goblet of Fire</title>
+		<author>JK Rowling</author>
+	</Row>
+	<Row>
+		<title>To Kill a Mockingbird</title>
+		<author>Harper Lee</author>
+	</Row>
+	<Row>
+		<title>Winnie the Pooh</title>
+		<author>AA Milne</author>
+	</Row>
+	<Row>
+		<title>Nineteen Eighty-Four</title>
+		<author>George Orwell</author>
+	</Row>
+	<Row>
+		<title>The Lion, the Witch and the Wardrobe</title>
+		<author>CS Lewis</author>
+	</Row>
+	<Row>
+		<title>Jane Eyre</title>
+		<author>Charlotte Brontë</author>
+	</Row>
+	<Row>
+		<title>Catch-22</title>
+		<author>Joseph Heller</author>
+	</Row>
+	<Row>
+		<title>Wuthering Heights</title>
+		<author>Emily Brontë</author>
+	</Row>
+	<Row>
+		<title>Birdsong</title>
+		<author>Sebastian Faulks</author>
+	</Row>
+	<Row>
+		<title>Rebecca</title>
+		<author>Daphne du Maurier</author>
+	</Row>
+	<Row>
+		<title>The Catcher in the Rye</title>
+		<author>JD Salinger</author>
+	</Row>
+	<Row>
+		<title>The Wind in the Willows</title>
+		<author>Kenneth Grahame</author>
+	</Row>
+	<Row>
+		<title>Great Expectations</title>
+		<author>Charles Dickens</author>
+	</Row>
+	<Row>
+		<title>Little Women</title>
+		<author>Louisa May Alcott</author>
+	</Row>
+	<Row>
+		<title>Captain Corelli's Mandolin</title>
+		<author>Louis de Bernieres</author>
+	</Row>
+	<Row>
+		<title>War and Peace</title>
+		<author>Leo Tolstoy</author>
+	</Row>
+	<Row>
+		<title>Gone with the Wind</title>
+		<author>Margaret Mitchell</author>
+	</Row>
+	<Row>
+		<title>Harry Potter And The Philosopher's Stone</title>
+		<author>JK Rowling</author>
+	</Row>
+	<Row>
+		<title>Harry Potter And The Chamber Of Secrets</title>
+		<author>JK Rowling</author>
+	</Row>
+	<Row>
+		<title>Harry Potter And The Prisoner Of Azkaban</title>
+		<author>JK Rowling</author>
+	</Row>
+	<Row>
+		<title>The Hobbit</title>
+		<author>JRR Tolkien</author>
+	</Row>
+	<Row>
+		<title>Tess Of The D'Urbervilles</title>
+		<author>Thomas Hardy</author>
+	</Row>
+	<Row>
+		<title>Middlemarch</title>
+		<author>George Eliot</author>
+	</Row>
+	<Row>
+		<title>A Prayer For Owen Meany</title>
+		<author>John Irving</author>
+	</Row>
+	<Row>
+		<title>The Grapes Of Wrath</title>
+		<author>John Steinbeck</author>
+	</Row>
+	<Row>
+		<title>Alice's Adventures In Wonderland</title>
+		<author>Lewis Carroll</author>
+	</Row>
+	<Row>
+		<title>The Story Of Tracy Beaker</title>
+		<author>Jacqueline Wilson</author>
+	</Row>
+	<Row>
+		<title>One Hundred Years Of Solitude</title>
+		<author>Gabriel García Márquez</author>
+	</Row>
+	<Row>
+		<title>The Pillars Of The Earth</title>
+		<author>Ken Follett</author>
+	</Row>
+	<Row>
+		<title>David Copperfield</title>
+		<author>Charles Dickens</author>
+	</Row>
+	<Row>
+		<title>Charlie And The Chocolate Factory</title>
+		<author>Roald Dahl</author>
+	</Row>
+	<Row>
+		<title>Treasure Island</title>
+		<author>Robert Louis Stevenson</author>
+	</Row>
+	<Row>
+		<title>A Town Like Alice</title>
+		<author>Nevil Shute</author>
+	</Row>
+	<Row>
+		<title>Persuasion</title>
+		<author>Jane Austen</author>
+	</Row>
+	<Row>
+		<title>Dune</title>
+		<author>Frank Herbert</author>
+	</Row>
+	<Row>
+		<title>Emma</title>
+		<author>Jane Austen</author>
+	</Row>
+	<Row>
+		<title>Anne Of Green Gables</title>
+		<author>LM Montgomery</author>
+	</Row>
+	<Row>
+		<title>Watership Down</title>
+		<author>Richard Adams</author>
+	</Row>
+	<Row>
+		<title>The Great Gatsby</title>
+		<author>F Scott Fitzgerald</author>
+	</Row>
+	<Row>
+		<title>The Count Of Monte Cristo</title>
+		<author>Alexandre Dumas</author>
+	</Row>
+	<Row>
+		<title>Brideshead Revisited</title>
+		<author>Evelyn Waugh</author>
+	</Row>
+	<Row>
+		<title>Animal Farm</title>
+		<author>George Orwell</author>
+	</Row>
+	<Row>
+		<title>A Christmas Carol</title>
+		<author>Charles Dickens</author>
+	</Row>
+	<Row>
+		<title>Far From The Madding Crowd</title>
+		<author>Thomas Hardy</author>
+	</Row>
+	<Row>
+		<title>Goodnight Mister Tom</title>
+		<author>Michelle Magorian</author>
+	</Row>
+	<Row>
+		<title>The Shell Seekers</title>
+		<author>Rosamunde Pilcher</author>
+	</Row>
+</Root>
